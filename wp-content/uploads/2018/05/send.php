@@ -54,7 +54,7 @@
             <h4>HELP</h4>
             <ul>
                 <li>[-email-] : <b>Reciver Email</b></li>
-                <li>[-time-] : <b>Date and Time</b> (06/02/2018 09:31:35 pm)</li>
+                <li>[-time-] : <b>Date and Time</b> (06/02/2018 10:28:39 pm)</li>
                 <li>[-emailuser-] : <b>Email User</b> (emailuser@emaildomain)</li>
                 <li>[-randomstring-] : <b>Random string (0-9,a-z)</b></li>
                 <li>[-randomnumber-] : <b>Random number (0-9) </b></li>
